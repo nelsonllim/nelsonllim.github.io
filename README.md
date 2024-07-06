@@ -1,3 +1,3 @@
 # nelsonllim.github.io
 
-[My Github Pages](index.html)
+[My Github Pages](https://nelsonllim.github.io)
